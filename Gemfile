@@ -31,5 +31,5 @@ group :production do
 
 source 'https://rubygems.org'
   gem 'rails',                '4.2.2'
-  gem 'bootstrap-sass',       '3.2.0.0'
+  gem 'bootstrap-sass',       '3.3.1'
 end
